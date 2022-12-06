@@ -1,0 +1,2307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-147337' action='modify' lat='2.8192474' lon='32.337141'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffd3d944b-c736-42ef-abbc-c0901acf0d7e%2F1653041895605.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147338' action='modify' lat='2.81714785442' lon='32.34190392331'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7b1bec38-6058-49fa-a890-d9e8fc6a7487%2F1652867583685.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147339' action='modify' lat='2.81660249444' lon='32.33878595033'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9ab72e94-9d38-4151-b520-6ad618bea7f4%2F1652872196810.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147340' action='modify' lat='2.8181717' lon='32.3391833'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb1813bd3-67f5-406e-87d4-debaa904e7ec%2F1652879160619.jpg' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147341' action='modify' lat='2.8163127' lon='32.340827'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1da07c3f-4a27-442d-8eb8-37b7e5566aac%2F1652869323217.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147342' action='modify' lat='2.8154513' lon='32.3370171'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F66a7608f-87f9-4ecd-9097-4e3dcc9e2998%2F1652940649898.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147343' action='modify' lat='2.816469' lon='32.3380135'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F95c95582-343c-4730-9f21-80b540c72918%2F1652872639177.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147344' action='modify' lat='2.8171764' lon='32.3453087'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa8333d9b-0667-4343-bc7c-40c13938c7a1%2F1652864797991.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147345' action='modify' lat='2.8194633' lon='32.3473933'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F996c9057-b8a5-4e36-b830-0363f87574a7%2F1652876145774.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147346' action='modify' lat='2.8192926' lon='32.3370002'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc03c36de-7ef4-490f-99b7-a13af26e2119%2F1653042254786.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147347' action='modify' lat='2.8158233' lon='32.3404183'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4d3a1677-82e8-4ca3-9a32-854bf7083276%2F1652870226222.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147529' action='modify' lat='2.7919916' lon='32.3462898'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F8534ab2f-545e-4b59-a397-9d415f9be3ae%2F1652868979450.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147530' action='modify' lat='2.7920044' lon='32.3463905'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fadfcaf73-f6a4-4222-a67f-afbdfed6c529%2F1652869465691.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147531' action='modify' lat='2.7920060644' lon='32.34688458221'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1f1c9677-dd27-4a85-a490-e58785d87c7c%2F1652869790308.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147532' action='modify' lat='2.79187564974' lon='32.34644628957'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F935008a5-1713-4ff3-a83a-6ca006ed0d2d%2F1652869168222.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147533' action='modify' lat='2.79114992768' lon='32.34618026564'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F749d5a60-2c12-4547-b17e-dfe5ec889707%2F1652865912052.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147534' action='modify' lat='2.7915067' lon='32.3453952'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4c11038a-e89f-40eb-8585-fa2cb570025f%2F1652867730318.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147535' action='modify' lat='2.7916825161' lon='32.34662220122'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F2bd7b159-ab21-41ab-aa7e-1776c03e1bd5%2F1652868722742.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147536' action='modify' lat='2.79148612097' lon='32.34551744907'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='install_year' v='2022' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F389b0421-a806-4a2f-8e7a-b3f05e766e5a%2F1652867532698.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147537' action='modify' lat='2.79192' lon='32.3469933'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F39ed7107-4808-43ce-80ec-32a108af7124%2F1652869871421.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147538' action='modify' lat='2.79204086976' lon='32.34656190491'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fda69946e-6aab-4663-a0ea-e5dda9d930e3%2F1652868897571.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147539' action='modify' lat='2.7998553711' lon='32.34934501105'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tank' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb7a37c8a-87c7-43df-9d41-aed25d443091%2F1652962874948.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_tank' />
+  </node>
+  <node id='-147540' action='modify' lat='2.79903622529' lon='32.34821468404'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F6e50847b-1af4-4bf9-a82e-e2542143ab9d%2F1652966231598.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147541' action='modify' lat='2.7991849' lon='32.3474677'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F51802fd6-bd6e-4ebd-bd57-9b3275c491ff%2F1652966924332.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147542' action='modify' lat='2.7988563957' lon='32.34924489081'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3423783f-4680-4d43-8e52-7929c4978a57%2F1652965796542.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147543' action='modify' lat='2.8051344' lon='32.3321085'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb8999d5b-9e17-4c7f-9300-77a40ef1204a%2F1652946079012.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147544' action='modify' lat='2.8037331' lon='32.3287503'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4a812c61-d321-4b56-b68c-0d39dc8f2aa4%2F1652946912475.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147545' action='modify' lat='2.8112334' lon='32.3339394'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F8aed5a4c-f819-46aa-86bf-3d8deb6a1e10%2F1652941815134.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147546' action='modify' lat='2.8054571' lon='32.3268829'>
+    <tag k='amenity' v='water_point' />
+    <tag k='county' v='aswa' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Faca6bcdc-f9c1-4def-a4df-d56a8113576e%2F1652947951680.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147547' action='modify' lat='2.8036447' lon='32.3355971'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa12fc999-28ec-4a55-9406-5d912e2e5835%2F1652944683326.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147548' action='modify' lat='2.8216622' lon='32.3157573'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Faf31dc2d-99dc-4dec-9ba6-ba8160faeb48%2F1652872403321.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147549' action='modify' lat='2.8166514' lon='32.3284831'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa7c3cab0-bd39-45d9-838b-9c7fe0c51eb1%2F1652873839988.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147550' action='modify' lat='2.8213731' lon='32.3300444'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff2a0914e-a71f-4b81-9cef-e767d2a54a22%2F1652877219018.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147551' action='modify' lat='2.8226235' lon='32.3138748'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F2cdaf6d4-c32a-4511-b244-d4309cddf47f%2F1652873208384.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147552' action='modify' lat='2.8158306' lon='32.330275'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3602a81d-211b-4151-822e-7082a7d958fb%2F1652877829469.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147553' action='modify' lat='2.8150246' lon='32.3236584'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fed8357aa-fd9a-4cc1-b0e8-fbaa25a6a242%2F1652870208988.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147554' action='modify' lat='2.8195005' lon='32.3291866'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1d07d828-18ac-4fd2-98c9-2859da07546a%2F1652876311687.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147555' action='modify' lat='2.8153455' lon='32.3300717'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3ff22063-be10-4bb3-a1b8-aa1f6a569005%2F1652878031888.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147556' action='modify' lat='2.8193468' lon='32.3301789'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1e4a9d71-5f8d-4e99-93ee-a6266a818bab%2F1652876021340.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147557' action='modify' lat='2.815436' lon='32.330934'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F062314ce-525f-4a7e-8a1c-018595ec51c4%2F1652878546397.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147558' action='modify' lat='2.8189226' lon='32.3306036'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc395a327-f863-4c05-a376-8ad2b5f48f4a%2F1652875721087.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147559' action='modify' lat='2.818035' lon='32.32981'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc0e5f42b-3329-46a1-ad5d-0483663ea6be%2F1652874672728.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147560' action='modify' lat='2.822295' lon='32.3304818'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tank' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F31a2a77a-89ef-45d6-b5f9-5df28ddf7259%2F1652877611458.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_tank' />
+  </node>
+  <node id='-147561' action='modify' lat='2.8132617723' lon='32.32232096748'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffa5bf833-2e42-4ef8-8cd5-02be5b8322df%2F1652870943038.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147562' action='modify' lat='2.814593' lon='32.3303128'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F62088a72-94e6-410f-8f23-c462659195aa%2F1652878972099.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147563' action='modify' lat='2.8153445' lon='32.3300748'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Faa7a7e37-c31c-4d7c-97f2-94c2900348b2%2F1652878385196.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147564' action='modify' lat='2.81901475332' lon='32.33171605307'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F64402797-a4ec-4ffa-98a5-c2fffb5c256b%2F1652875233809.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147565' action='modify' lat='2.8171917' lon='32.3286933'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F8efab58f-0da5-433c-b0da-43c1e7e4d8cb%2F1652874042107.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147566' action='modify' lat='2.81809180461' lon='32.32964450766'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tank' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff018d441-6557-4853-a7c2-801e1974eb53%2F1652874669640.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_tank' />
+  </node>
+  <node id='-147567' action='modify' lat='2.8190723' lon='32.3310982'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F6bb9aa95-4243-490b-9a58-b9585463b2f7%2F1652875272722.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147568' action='modify' lat='2.8137029' lon='32.3307246'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3ca0b24a-5fd6-42f3-9227-119d0f3f8a03%2F1652879548098.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147569' action='modify' lat='2.8262156' lon='32.3251444'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F91d40b15-9ae7-4cd9-ab9f-1b32bcee7199%2F1652881621641.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147570' action='modify' lat='2.8332678' lon='32.3231487'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='sping' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4d64c586-36ec-4420-9361-e78c44b08c88%2F1652878864553.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147571' action='modify' lat='2.8368167' lon='32.3269481'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7b2c60a2-665a-4f85-9532-7e5c0fe8f62a%2F1652879696547.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147572' action='modify' lat='2.82514265807' lon='32.32157441666'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb1ecf489-924d-4a07-85e2-150c97677b4c%2F1652875886507.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147573' action='modify' lat='2.8241443' lon='32.3172679'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe1afd8a6-1dfe-47dc-bba7-10159094c65f%2F1652873659000.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147574' action='modify' lat='2.8240367' lon='32.332225'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc9d4c7de-b494-44ba-b33e-71b2b4f61dd8%2F1652877921802.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147575' action='modify' lat='2.8316613' lon='32.338216'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fcde9bf6a-fde9-4b1e-bacd-fca30d8e39de%2F1652870330070.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147576' action='modify' lat='2.8279336' lon='32.3162475'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3c8b751f-fab5-4362-881b-7ade8456c6cd%2F1652876800263.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147577' action='modify' lat='2.8239933' lon='32.32635'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F05a8ab36-2a0a-42b4-8b37-30395d25f244%2F1652886705726.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147578' action='modify' lat='2.8353132' lon='32.3255108'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F39f2d2fc-2647-4e5f-922b-44cee2507aff%2F1652880285093.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147579' action='modify' lat='2.8325148' lon='32.3151547'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffcac78e3-0a81-4ff0-afa5-29866bf2920e%2F1652878530682.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147580' action='modify' lat='2.8295651' lon='32.329546'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='springs' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa8846d52-ff73-4d1d-ba99-15939afbbe51%2F1652878760380.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147581' action='modify' lat='2.8377745' lon='32.3186794'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water _well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F52f8a780-7890-4415-9320-514218ec3621%2F1652880546826.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147582' action='modify' lat='2.8885307' lon='32.2071948'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1c17e6bc-b121-4810-bebd-d71aa217b3bc%2F1653401839387.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147583' action='modify' lat='2.8898852' lon='32.2045713'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F6e92c789-fcc6-409f-a4e5-d92f48c33bfc%2F1653402238793.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147584' action='modify' lat='2.8288619' lon='32.2261974'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F89cc189f-2b4e-4ee3-b913-f12f00afc1e5%2F1653396042929.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147585' action='modify' lat='2.9024263' lon='32.2042565'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff530e73e-00cc-4016-a5b4-6f0a9fca84f6%2F1653399634867.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147586' action='modify' lat='2.8561845' lon='32.2341474'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F96838d5c-cb25-4d0a-9cbe-e59c307c228c%2F1653491067535.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147587' action='modify' lat='2.8449007' lon='32.2172747'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F2b0d7eed-39ac-4251-8ae8-be1e8ccb5bac%2F1653400362769.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147588' action='modify' lat='2.8674255' lon='32.2203001'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F52b4beaf-68c4-491d-b0ba-3e4d65751244%2F1653487526047.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147589' action='modify' lat='2.8802021' lon='32.2183132'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7b7d3da4-3ad3-454d-b6bb-8ac81d2aebe6%2F1653406562234.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147590' action='modify' lat='2.8260537' lon='32.2480314'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fcc45246c-64b7-48c7-bc3f-6832a1fce0d2%2F1653390448145.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147591' action='modify' lat='2.8276853' lon='32.2479831'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9cdd3120-2ec0-4a6f-8e5f-14213291ce4c%2F1653404570640.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147592' action='modify' lat='2.8239755' lon='32.2389997'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc38ecfe7-6712-4585-a90c-201e2d3e5e8f%2F1653392369839.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147593' action='modify' lat='2.8987577' lon='32.2267593'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F813b3c00-5912-4ed4-b991-8ad1381da3c6%2F1653742887757.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147594' action='modify' lat='2.846933' lon='32.2227036'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fbb0791ec-5533-48d4-a318-3acedc8442df%2F1653399600852.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147595' action='modify' lat='2.8740068' lon='32.215205'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F967954db-b4cf-49ee-8f1c-dee98db2d69a%2F1653407793148.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147596' action='modify' lat='2.8480309' lon='32.2389492'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa30df72b-fca6-45db-ba68-83b867b5ba6a%2F1653395056772.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147597' action='modify' lat='2.8280048' lon='32.248099'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffa7c47d1-c62e-42d5-8e3b-7137ad539b59%2F1653404691247.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147598' action='modify' lat='2.84474063206' lon='32.21684178221'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tank' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fce446ffd-8925-4976-a13b-a2bd3bdbc6db%2F1653400424674.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_tank' />
+  </node>
+  <node id='-147599' action='modify' lat='2.8991213' lon='32.2279061'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F5c95523f-e482-4528-b33e-ba419abb1d40%2F1653743308194.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147600' action='modify' lat='2.8641457' lon='32.2334865'>
+    <tag k='amenity' v='water_point' />
+    <tag k='county' v='aswa' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F25de4474-979f-40df-bef7-9cc81fd06563%2F1653489953102.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147601' action='modify' lat='2.8436525' lon='32.2166962'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb8042b6f-b8d9-4c91-86b7-240d8139329d%2F1653401254044.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147602' action='modify' lat='2.8844738' lon='32.2084406'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7e8e7103-be06-4b56-982c-ca85d82018c7%2F1653403176385.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147603' action='modify' lat='2.8535514' lon='32.2173762'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa88ec8d2-c3ac-4bf7-93c0-359895545c25%2F1653403125647.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147604' action='modify' lat='2.90562895752' lon='32.20107356197'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe4060930-3923-4c5b-8b39-40057559fe22%2F1653398785816.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147605' action='modify' lat='2.8255004' lon='32.2278614'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F40f7bbb6-de3c-4551-be3a-1811d9c72022%2F1653395442178.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147606' action='modify' lat='2.9369533' lon='32.2468667'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fd369fc3d-f45f-4a08-8c91-dc8c52e22744%2F1653304751888.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147607' action='modify' lat='2.9343886' lon='32.246275'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fee98884f-b6ef-424e-809a-a5ace17ab9ce%2F1653315335248.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147608' action='modify' lat='2.92116725426' lon='32.27231546073'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa706b7a4-89c2-460b-bc1c-98947c77c4e4%2F1653304782217.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147609' action='modify' lat='2.9208353' lon='32.2980837'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F8ae34a4c-6b7a-41bd-9fc7-0d69d714fa6b%2F1653136081099.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147610' action='modify' lat='2.9157566' lon='32.2986508'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F77bace85-2f9d-42dc-9a85-6013496b6d49%2F1653135237188.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147611' action='modify' lat='2.935449' lon='32.2515624'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3f33adbd-fc6c-4a03-8f7d-db86c7837b3d%2F1653305460045.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147612' action='modify' lat='2.9333658' lon='32.3061463'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F0f4bf7ad-8715-4674-9632-80e5e473a69a%2F1653137914544.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147613' action='modify' lat='2.9356428984' lon='32.25174183254'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Feeb50b4e-8fd4-41ca-9528-9ce740f5f6c6%2F1653316047083.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147614' action='modify' lat='2.9274614942' lon='32.25760595951'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F09593434-7256-41d3-8a28-6585c2f89877%2F1653302017517.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147615' action='modify' lat='2.9356684' lon='32.2465381'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F928f80f1-0e81-46b1-992f-093fc395da6e%2F1653314994893.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147616' action='modify' lat='2.9332346' lon='32.2955748'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffedfd739-c69e-4f31-aa5e-e99e994a7ef8%2F1653140323396.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147617' action='modify' lat='2.9178191' lon='32.271453'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F56f53e43-da6d-4b6f-a58d-dfd61658d2f6%2F1653306581976.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147618' action='modify' lat='2.9226785' lon='32.2707989'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa70971b2-5fd4-49be-a25d-afe10eaa0afa%2F1653305969369.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147619' action='modify' lat='2.926526' lon='32.2523515'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc1ba2bed-0e6b-4dff-b915-a1915449da41%2F1653301430238.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147620' action='modify' lat='2.9137407' lon='32.2994455'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='Yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Faa681b09-41be-4fd5-95f7-a7e4efa6bd70%2F1653139091004.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147621' action='modify' lat='2.928827' lon='32.3007908'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc8d7f637-3e9c-4ae0-8bf5-23f9546c2d3e%2F1653136642259.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147622' action='modify' lat='2.9265687' lon='32.2677319'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fcae1db3c-d8a6-4332-9983-1262e8ee0271%2F1653304290986.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147623' action='modify' lat='2.9210636' lon='32.279456'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F25a62282-0ba2-4aef-818b-d3191dff78f4%2F1653305126773.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147624' action='modify' lat='2.9464563' lon='32.2901808'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F759b0869-7c1c-453c-a3a6-0d5dfb23e8ca%2F1653142089601.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147625' action='modify' lat='2.91902577873' lon='32.29774642146'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F624e53e0-93b7-43e1-b14a-26d090de95c7%2F1653137831867.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147626' action='modify' lat='2.9141207' lon='32.297825'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3a01fa92-3409-483d-8b60-581e36738642%2F1653138476329.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147627' action='modify' lat='2.93555309017' lon='32.24317362209'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7820af19-d038-4e25-8351-ef1db799871f%2F1653303588205.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147628' action='modify' lat='2.9504456' lon='32.2806825'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4fb6a576-3ff7-4c54-a9c7-4d76516f22ca%2F1653144195614.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147629' action='modify' lat='2.9210134' lon='32.2491959'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F57bae1d4-6f10-4a1d-a6e8-6dd865bee7f9%2F1653308980849.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147630' action='modify' lat='2.923083' lon='32.2529712'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffc8f3cbb-4a76-4413-b9a4-27c21ab31e64%2F1653303119546.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147631' action='modify' lat='2.91411' lon='32.2995783'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb4ca7b0c-74bd-49f1-ad65-0c9911bf8c40%2F1653139095660.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147632' action='modify' lat='2.93547044917' lon='32.24318501657'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F66fd3a1e-dc64-4fc4-9f87-0e1d77f35981%2F1653313776804.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147633' action='modify' lat='2.8704015' lon='32.3247523'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F91e46891-3f59-41e6-a884-293827630fcb%2F1652876290942.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147634' action='modify' lat='2.848318' lon='32.3418087'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fab7d481a-cd34-4df9-86a7-e0a09ccd4451%2F1652875669460.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147635' action='modify' lat='2.8557426' lon='32.3347571'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F76c3acd0-e284-4ca0-89ba-8af685f57b25%2F1652882511511.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147636' action='modify' lat='2.8484148' lon='32.3159069'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1578846e-f150-4559-888c-a0d4e989c63a%2F1653036906011.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147637' action='modify' lat='2.8578048' lon='32.3195833'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe22838d1-74fe-4075-93ef-7e855cf7438b%2F1653039445611.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147638' action='modify' lat='2.8523217' lon='32.333805'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F0ad6b551-ccae-4e85-a4b3-c7c928a4438b%2F1652880943730.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147639' action='modify' lat='2.8458529' lon='32.3191209'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe48c0906-43c5-4e14-b93d-f47219c3922f%2F1653032980789.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147640' action='modify' lat='2.8513391' lon='32.3157693'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fecb3b55a-f2cc-4666-9683-61e61a76e950%2F1653037557754.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147641' action='modify' lat='2.847157' lon='32.3198842'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fce89ef41-0f9f-418d-b977-31010b88f960%2F1653036315726.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147642' action='modify' lat='2.84178211907' lon='32.33747985276'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F44151515-a50a-4800-ad84-82e6c5659a43%2F1652874046551.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147643' action='modify' lat='2.8591211' lon='32.3347396'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb430b1a6-0ac0-4d2e-85dc-fc82b70c53c9%2F1652881605551.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147644' action='modify' lat='2.840977' lon='32.3215208'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F596975e7-e002-442c-8ecd-fffb08cb7529%2F1652881369660.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147645' action='modify' lat='2.8123188' lon='32.2336842'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F0dd88802-a80d-4dd2-9435-cbc07f2a14b5%2F1653394784753.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147646' action='modify' lat='2.7871195' lon='32.2407366'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_ well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F02e39e1f-f5d9-4979-adbe-012be2b6a0b0%2F1653307555375.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_boreholes' />
+  </node>
+  <node id='-147647' action='modify' lat='2.8041229' lon='32.2498855'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F6df20538-43f1-465c-8597-d11c92ac0cec%2F1653306885444.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147648' action='modify' lat='2.8109878' lon='32.2391042'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F079501a8-84fe-43c5-9557-1e750cb071b8%2F1653391720009.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147649' action='modify' lat='2.79042439316' lon='32.24436902822'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F49d1005e-4c10-42bb-a846-2ce4b34418eb%2F1653308491673.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147650' action='modify' lat='2.8166803' lon='32.2396934'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fccdbcf74-67f7-4643-84eb-f0e7720bdfc1%2F1653390001468.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147651' action='modify' lat='2.7816867' lon='32.2346283'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff3c6358d-de8b-4f73-a9b2-2862b538c71e%2F1653305663042.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147652' action='modify' lat='2.81536588774' lon='32.24443289878'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F55788c76-4c0c-4332-b1ee-004b9abf10ae%2F1653388702774.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147653' action='modify' lat='2.8132768' lon='32.2339175'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe2fd2b17-25fb-492d-9055-b6a6eb4c31c6%2F1653395304726.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147654' action='modify' lat='2.800298' lon='32.2361716'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff36090f9-8464-449c-9569-06e3963186d2%2F1653398348996.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147655' action='modify' lat='2.8071708' lon='32.2355841'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F11038f6a-9ad3-4f63-ae7d-cbf368c3e32e%2F1653396197829.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147656' action='modify' lat='2.81130498153' lon='32.26033112331'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4ddd3998-8975-41d4-b256-6c2103281b83%2F1653309965174.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147657' action='modify' lat='2.80916769239' lon='32.23580779755'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_ well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F492b5677-0da5-44b4-a18d-1f1f6f7d6ad6%2F1653393587498.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147658' action='modify' lat='2.81972593743' lon='32.24849169511'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F99e4deb1-1546-48ea-966d-ba0e9d6f0f4c%2F1653386985016.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147659' action='modify' lat='2.81102079745' lon='32.23952976564'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F092d6bdf-1773-49db-a002-7535b3e27c0a%2F1653391494220.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147660' action='modify' lat='2.8110719' lon='32.2347335'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc98c81a5-1624-489c-88f6-94dc0d93c4b6%2F1653394510132.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147661' action='modify' lat='2.8054922' lon='32.2528406'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F099d2c63-5953-479e-a9f0-3058623e5832%2F1653311792121.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147662' action='modify' lat='2.8740135' lon='32.281032'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F39250882-f885-4ae1-964d-e23bc76a3ddf%2F1653315069164.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147663' action='modify' lat='2.8980483' lon='32.3139729'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F934ad425-03b9-41b4-9a06-44541695e3f3%2F1653128045879.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147664' action='modify' lat='2.8861883' lon='32.2536664'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4981b430-3fb4-448f-94ed-2e9cf424737a%2F1653307345255.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147665' action='modify' lat='2.899945' lon='32.262183'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F338c14be-d083-4f6d-b315-d1c252fc8e4d%2F1653308433068.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147666' action='modify' lat='2.8769214' lon='32.2971853'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc42c30a3-3e4a-45f6-90ae-0cdf7a4ff4d6%2F1653135738465.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147667' action='modify' lat='2.89564' lon='32.2629128'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1068371f-fa91-4cdb-848a-fecd0331a72d%2F1653301972813.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147668' action='modify' lat='2.8759214' lon='32.3383366'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F5f7b7a9a-f42e-476b-b5eb-99eb6fabdbf0%2F1653136199138.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147669' action='modify' lat='2.8824187' lon='32.2744999'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F05672646-6226-464c-95c1-181a125c0ccf%2F1653314325936.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147670' action='modify' lat='2.9055217' lon='32.2954083'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9684bcd8-f8ab-48cc-830d-b504b66939cf%2F1653143290002.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147671' action='modify' lat='2.9073753' lon='32.2664302'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff6219314-c2ed-4eff-89ae-ad403aac4206%2F1653307795543.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147672' action='modify' lat='2.8934667' lon='32.3275483'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9d409804-d149-40b5-8bde-7d6a962ffb0b%2F1653126232813.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147673' action='modify' lat='2.9056569' lon='32.29876'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fcce64d1e-e382-4be0-a019-560025790fb3%2F1653142493382.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147674' action='modify' lat='2.8894667' lon='32.3248167'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe2aea344-2d43-4a57-a064-1b0ea08fa981%2F1653126712725.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147675' action='modify' lat='2.9014765' lon='32.2695795'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F08cde987-1b3e-4d32-baa0-ef151f25b628%2F1653305014469.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147676' action='modify' lat='2.8947683' lon='32.3297054'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7108ec9a-4ddb-4b6f-b9cb-56c21d0fbaa4%2F1653126295228.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147677' action='modify' lat='2.8790427' lon='32.261554'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff9a41791-ec99-48e1-9f62-d60b7ba822cf%2F1653313950333.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147678' action='modify' lat='2.9099021' lon='32.2645484'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F724fe702-16e5-42d2-be41-ea3a83c140b2%2F1653307404006.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147679' action='modify' lat='2.8950228' lon='32.2580572'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F86604ccf-5307-4c99-896c-2a3561d2d02a%2F1653301064389.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147680' action='modify' lat='2.8824498' lon='32.2743901'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F254aabed-f952-4650-85ee-d2470d411946%2F1653314198821.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147681' action='modify' lat='2.88718' lon='32.333055'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F36e8885b-dd2e-4619-b074-de0655deb560%2F1653130828015.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147682' action='modify' lat='2.8772341' lon='32.2861017'>
+    <tag k='amenity' v='water_point' />
+    <tag k='county' v='aswa' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F07741891-9111-4f5a-b04c-ae1742b7aac6%2F1653139307189.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147683' action='modify' lat='2.8846722' lon='32.2882806'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fbee18eed-ecbd-49f2-b0ac-4843fd1e7de4%2F1653138110180.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147684' action='modify' lat='2.8846507' lon='32.2758299'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fbb9adbaa-0b21-4fa4-8fe0-08cc8afce3b4%2F1653313770050.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147685' action='modify' lat='2.79105172492' lon='32.34526102945'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F2730686e-017e-46b1-b271-373795b38e3a%2F1652866616062.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147686' action='modify' lat='2.7911085117' lon='32.34555069509'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fa833824c-0d1a-4339-9be7-01f9cb9ea71f%2F1652866848774.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147687' action='modify' lat='2.79111050243' lon='32.3460646184'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff8600e10-c0af-4e8a-8b09-ff2b9e518483%2F1652866102815.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147688' action='modify' lat='2.79077963996' lon='32.34635587178'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F0c908e70-503d-4953-8b70-3986839d1702%2F1652864803485.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147689' action='modify' lat='2.7894277' lon='32.3450076'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F673389cc-2aea-4bc7-9bc5-24a690fb06fe%2F1652962091954.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147690' action='modify' lat='2.79068858631' lon='32.34687677854'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc42ec669-0c0e-47a3-9ba2-50944e6fc860%2F1652874726395.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147691' action='modify' lat='2.79055819183' lon='32.34671474481'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F79556e72-e50d-4046-b4cb-9dad5d98bc88%2F1652864773872.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147692' action='modify' lat='2.7904796' lon='32.3468844'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F384ff5ab-3754-4fbe-b99a-3ec44c99b07a%2F1652874398583.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147693' action='modify' lat='2.8015352' lon='32.3488295'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F8391f175-ae3b-4376-9db7-b43e551e1ac7%2F1652962018179.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147694' action='modify' lat='2.8062306' lon='32.3445649'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F13478b90-9c4f-479b-b16e-a8ca2e173ecc%2F1652875235800.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147695' action='modify' lat='2.813563' lon='32.3437653'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F36e4bb6b-5006-4fb4-952d-bb09cc092037%2F1652866039410.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147696' action='modify' lat='2.80932685797' lon='32.34011572454'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F6c3fcaf6-9211-449c-9f09-1ce54779aa9f%2F1652874136379.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147697' action='modify' lat='2.8050766' lon='32.3392397'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F5ebc247b-7f70-4478-81b0-a6ae8c920a6a%2F1652875062457.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147698' action='modify' lat='2.8044384' lon='32.3443454'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc293b564-8b60-4fb5-a81f-53903c18c0d2%2F1652971229744.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147699' action='modify' lat='2.80967332102' lon='32.3389983411'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fd8503ccf-8372-40e0-98ec-ec5b7900a94c%2F1652878494422.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147700' action='modify' lat='2.81' lon='32.3421718'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7a725761-6c5e-4f1e-ae2b-3d5bdad25927%2F1652866576332.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147701' action='modify' lat='2.8120583' lon='32.3379624'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fe4618a64-3b00-42c4-876b-aa9337c7b79d%2F1652873565747.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147702' action='modify' lat='2.8050435' lon='32.3408539'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F1518a1ad-603e-45fc-88de-80fa989ec492%2F1652875541676.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147703' action='modify' lat='2.8104159' lon='32.3411653'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F3dcab713-c7e5-4679-9890-4fe104c175ed%2F1652871754041.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147704' action='modify' lat='2.8137704' lon='32.3374131'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F94eb463d-6c19-4128-b94d-9d2efe1a5bdc%2F1652873007584.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147705' action='modify' lat='2.8031859' lon='32.3412766'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9de3c3e4-0f4f-40a4-84a1-d7c84a6c6338%2F1652875845887.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147706' action='modify' lat='2.8027032' lon='32.348043'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tank' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F9ce3cdda-eb9e-4d80-bc5f-178b654fe84f%2F1652961427984.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_tank' />
+  </node>
+  <node id='-147707' action='modify' lat='2.8071032' lon='32.3398399'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F4f4130ca-84d7-4a35-8293-c234dc9aac64%2F1652874774216.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147708' action='modify' lat='2.8688255572' lon='32.2637462816'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F358d7834-ce31-4380-94b3-e21911a68140%2F1653311626707.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='-147709' action='modify' lat='2.86321562114' lon='32.28068572331'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='no' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F38a0b6bc-cf7d-4f2c-97f3-9b810a14c0e9%2F1653303387213.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147710' action='modify' lat='2.8602526' lon='32.281498'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ffe2d9b4f-35d6-4a15-8ff5-b631c3345f71%2F1653125974513.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147711' action='modify' lat='2.8674644' lon='32.2716984'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F2cdb8d17-93bb-466a-8d7b-0c020bf412e6%2F1653307551605.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147712' action='modify' lat='2.86041266122' lon='32.27881508221'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='no' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fc6e942b1-43d4-428e-8e22-afedf51b1120%2F1653302732093.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147713' action='modify' lat='2.8518883' lon='32.2628217'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fd5bc3715-04c7-4b09-b36a-dd9b62cb5a38%2F1653391050843.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147714' action='modify' lat='2.8720461' lon='32.25747'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F5a9cc4e5-83d0-4c91-a18e-2c9d0ecfe561%2F1653316355347.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147715' action='modify' lat='2.86545689714' lon='32.28001741288'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F87a8ef62-d538-4045-a965-558f452514c3%2F1653304430936.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147716' action='modify' lat='2.8686136' lon='32.2779445'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F31d62a86-e9df-4614-9ee3-9c940647ddb3%2F1653306182429.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147717' action='modify' lat='2.8671752' lon='32.2866068'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F24b21ae7-74ff-4a20-89ce-f3b7e5aa4650%2F1653130194178.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+  <node id='-147718' action='modify' lat='2.8686125' lon='32.2901523'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='no' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Ff61b9618-bcb3-4daa-ba16-b29fdac6f906%2F1653130701055.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147719' action='modify' lat='2.8708139' lon='32.2530777'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F518f30e6-5a7a-465a-88a8-5f25f4a3c8e7%2F1653317641933.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='-147720' action='modify' lat='2.8705415' lon='32.2645532'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='install_year' v='2021' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='institution' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F72534b6e-3107-4290-bfe7-038b765b654e%2F1653311995824.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='10207252648' action='modify' timestamp='2022-11-21T12:29:05Z' uid='17746504' user='waitely' version='1' changeset='129194935' lat='2.7921479' lon='32.3435976'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2Fb2b11353-6e29-421c-8d6d-973b538b8a55%2F1652963140354.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='deep_borehole' />
+  </node>
+  <node id='10207252649' action='delete' timestamp='2022-11-21T12:29:05Z' uid='17746504' user='waitely' version='1' changeset='129194935' lat='2.7914785' lon='32.3414167'>
+    <tag k='amenity' v='water_point' />
+    <tag k='county' v='aswa' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='install_year' v='2018' />
+    <tag k='latitude' v='2.7914785' />
+    <tag k='longitude' v='32.3414167' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='functional_in_use' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F43627ab5-9ea7-4336-a745-43e814d49fa6%2F1652963940713.jpg' />
+    <tag k='pump' v='no' />
+    <tag k='pump:system' v='surfacewater' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='rainwater_harvest_tank' />
+    <tag k='use' v='residential' />
+  </node>
+  <node id='10207252650' action='delete' timestamp='2022-11-21T12:29:05Z' uid='17746504' user='waitely' version='1' changeset='129194935' lat='2.7844059' lon='32.3204375'>
+    <tag k='amenity' v='water_point' />
+    <tag k='county' v='aswa' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='latitude' v='2.7844059' />
+    <tag k='longitude' v='32.3204375' />
+    <tag k='man_made' v='water_well' />
+    <tag k='operational_status' v='functional_in_use' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F530386ff-19fb-4848-9cee-515b8bdc9e54%2F1652974476136.jpg' />
+    <tag k='pump' v='yes' />
+    <tag k='pump:system' v='groundwater' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+    <tag k='use' v='residential' />
+  </node>
+  <node id='10207252651' action='modify' timestamp='2022-11-21T12:29:05Z' uid='17746504' user='waitely' version='1' changeset='129194935' lat='2.7913616' lon='32.3416029'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='man_made' v='water_tap' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='private_ownership' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F7f861bed-9446-406c-8e9c-08d9bf187df9%2F1652963887359.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='tap' />
+  </node>
+  <node id='10207252652' action='modify' timestamp='2022-11-21T12:29:05Z' uid='17746504' user='waitely' version='1' changeset='129194935' lat='2.788485' lon='32.3223883'>
+    <tag k='amenity' v='water_point' />
+    <tag k='drinking_water' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='natural' v='spring' />
+    <tag k='operational_status' v='yes' />
+    <tag k='operator' v='community' />
+    <tag k='photo' v='https://kc.humanitarianresponse.info/media/original?media_file=wava_stella%2Fattachments%2Fb5a9b6358d8141adabcb9d5c4f0dd560%2F50ab737f-83b3-4441-95fd-f9f5ff4a6270%2F1653126241419.jpg' />
+    <tag k='source:date' v='2022' />
+    <tag k='type' v='protected_spring' />
+  </node>
+</osm>
